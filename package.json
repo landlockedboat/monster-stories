@@ -1,0 +1,32 @@
+{
+	"name": "monster-stories",
+	"version": "0.0.0",
+	"description": "A monster stories generator",
+	"license": "MIT",
+	"repository": "vikepic/monster-stories",
+	"author": {
+		"name": "",
+		"email": "",
+		"url": "vikepic.github.io"
+	},
+	"engines": {
+		"node": ">=6"
+	},
+	"scripts": {
+		"test": "xo && ava"
+	},
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		""
+	],
+	"dependencies": {},
+	"devDependencies": {
+		"ava": "^0.25.0",
+		"xo": "^0.21.1"
+	},
+	"ava": {
+		"verbose": true
+	}
+}

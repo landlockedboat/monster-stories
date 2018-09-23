@@ -16,7 +16,11 @@
 		"test": "xo && ava"
 	},
 	"files": [
-		"index.js"
+		"index.js",
+		"dungeon-generator.js",
+		"monster-generator.js",
+		"name-generator.js",
+		"story-generator.js"
 	],
 	"keywords": [
 		""
